@@ -2,6 +2,8 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Klaviaturadan daxil edilən A siyahısının hər bir elementi sətirdir. Sətirlər bir sözdən ibarətdir. 
+Simvollarının sayı tək olan sövəri və həmin sözün ortasındakı imvolu ekrana verməli
 '''
 
 A=[]

@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+C siyahısının müsbət elementlərindən A siyahısı düzəltməli.
 '''
 def duzelt_musbet(arr):
     positive_elements = [x for x in arr if x > 0]

@@ -2,6 +2,8 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Klaviaturadan ardıcıllıqla ixtiyari natural ədədləri daxil edin. Tək nömrəli ədədlərin cəmini, 
+cüt nömrəli ədədlərin hasilini tapın. Klaviaturadan sıfır daxil edəndə əməliyyatı dayandırın
 '''
 # İlk döngüdə ardıcıllıqla ədədləri qəbul edirik
 # Tək ədədlərin cəmi, cüt ədədlərin hasilini tapacağıq

@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+A siyahısının cüt indeksli elementlərinin cəmini tapmalı.
 '''
 def cut_indeksli_cem(arr):
     sum_even_index = sum(arr[i] for i in range(len(arr)) if i % 2 == 0)

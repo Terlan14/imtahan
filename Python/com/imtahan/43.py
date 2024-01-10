@@ -2,6 +2,7 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Klaviaturadan daxil edilən N ədəd sətrin hər birindəki boşluqların sayını tapmalı
 '''
 N = int(input("Sətrlərin sayını daxil edin: "))
 satir_sayisi = []

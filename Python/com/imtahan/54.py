@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+A siyahısının mənfi elementlərinin cəmini və sayını tapın.
 '''
 def menfi_cem_ve_say(arr):
     negative_sum = sum(x for x in arr if x < 0)

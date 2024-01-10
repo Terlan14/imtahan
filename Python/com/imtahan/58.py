@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+B siyahısının 5-dən böyük 15-dən kiçik elementlərinin cəmini tapmalı.
 '''
 def five_to_fifteen_cemi(arr):
     elements_between_5_and_15 = [x for x in arr if 5 < x < 15]

@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+B siyahısının 9-dan böyük elementlərinin cəmini və sayını tapmalı.
 '''
 def nine_plus_cem_ve_sayi(arr):
     elements_gt_nine = [x for x in arr if x > 9]

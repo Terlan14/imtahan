@@ -2,6 +2,7 @@
 Created on Jan 9, 2024
 
 @author: terlan
+A siyahısının birinci mənfi elementindən əvvəlki elementlərin sayını tapın.
 '''
 def neg_elem_evindekiler(arr):
     neg_index = -1

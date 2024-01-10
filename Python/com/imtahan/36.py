@@ -2,6 +2,9 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Siyahı generatorunun köməyi ilə A siyahısı yaradın və siyahı elementlərini klaviaturadan daxil edin. 
+Siyahı elementlərinin hər biri tam ədədir. Siyahı generatorundan istifadə etməklə A siyahısının hər bir elementindəki 
+sıfırların sayından B siyahısı yaratmalı
 '''
 # A siyahısını yaratmak için kullanıcıdan tam sayıları alın
 A = [int(input("Tam ədədi daxil edin: ")) for _ in range(int(input("Siyahının uzunluğunu daxil edin: ")))]

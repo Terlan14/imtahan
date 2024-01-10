@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+C siyahısının maksimum elementini və onun indeksini tapın.
 '''
 def max_ve_indeks(arr):
     max_element = max(arr)

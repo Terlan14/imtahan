@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+A siyahısının tək indeksli elementlərinin cəmini tapmalı.
 '''
 def tek_indeksli_cem(arr):
     sum_odd_index = sum(arr[i] for i in range(len(arr)) if i % 2 != 0)

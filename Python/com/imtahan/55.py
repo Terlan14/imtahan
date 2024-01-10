@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+C siyahısının mənfi elementlərindən D siyahısı düzəltməli.
 '''
 def duzelt_menfi(arr):
     negative_elements = [x for x in arr if x < 0]

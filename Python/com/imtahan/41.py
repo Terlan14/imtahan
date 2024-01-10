@@ -2,6 +2,7 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Klaviaturadan daxil edilən A matrisinin ən böyük elementi ilə ən kiçik elementinin yerini dəyişin
 '''
 # Matrisin satır ve sütun sayısını alın
 satir_sayisi = int(input("Matrisin satır sayısını daxil edin: "))

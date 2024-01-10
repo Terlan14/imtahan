@@ -2,6 +2,8 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Klaviaturadan daxil edilən N sayda sözün ən uzununu təyin edib bütün sözləri ona görə düzləndirməli, 
+boş qalan yerlərə “*” simvolu qoymalı
 '''
 # Kullanıcıdan N adet kelime alın
 N = int(input("Sözlərin sayını daxil edin: "))

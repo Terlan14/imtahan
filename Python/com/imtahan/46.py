@@ -2,6 +2,7 @@
 Created on Jan 9, 2024
 
 @author: terlan
+A siyahısının birinci mənfi elementindən əvvəlki elementlərin hesabi ortasını tapın.
 '''
 def neg_elem_ortasi(arr):
     neg_index = -1

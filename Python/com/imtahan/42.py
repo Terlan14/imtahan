@@ -2,6 +2,7 @@
 Created on Jan 8, 2024
 
 @author: terlan
+Funksiyadan istifadə etməklə A, B, C siyahılarının maksimum elementlərinin cəmini tapın
 '''
 def maksimum_cemi(A, B, C):
     # Her bir siyahının maksimum elementini bulun

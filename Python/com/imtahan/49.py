@@ -2,6 +2,7 @@
 Created on Jan 9, 2024
 
 @author: terlan
+B siyahısının müsbət elementlərinin cəmini və sayını tapın.
 '''
 def musbet_cem(arr):
     cem=0

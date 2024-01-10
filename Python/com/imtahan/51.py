@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+B siyahısının müsbət elementlərinin  sayını tapmalı.
 '''
 def musbet_say(arr):
     count_positive = sum(1 for x in arr if x > 0)

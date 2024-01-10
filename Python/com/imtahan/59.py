@@ -1,7 +1,8 @@
 '''
 Created on Jan 9, 2024
 
-@author: terla
+@author: terlan
+C siyahısının minimum elementini  və onun indeksini tapın.
 '''
 def min_ve_indeks(arr):
     min_element = min(arr)

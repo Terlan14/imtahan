@@ -1,5 +1,9 @@
+'''
+Klaviaturadan daxil edilən A siyahısının hər bir elementi siyahıdır. A siyahısının hər bir elementindəki elementlərinin 
+ən böyüyündən yeni siyahı yaratmalı
+'''
 # Örnek A listesi
-A = [[3, 8, 2], [5, 12, 7], [9, 4, 6]]
+A = [[3, 11, 2], [5, 9, 7], [7, 4, 6]]
 
 # Yeni liste yaratmak için boş bir liste oluşturun
 yeni_list = []
